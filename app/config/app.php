@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	'debug' => true,
+	'debug' => false,
 
 	/*
 	|--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return array(
 	|
 	*/
 
-	'companyname' => 'Southern New Hampshire University',
+	'companyname' => '',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -65,7 +65,7 @@ return array(
 	|
 	*/
 
-	'timezone' => 'EST',
+	'timezone' => 'UTC',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -104,7 +104,7 @@ return array(
 	|
 	*/
 
-	'key' => 'a9Iognzecf0GYV87DS4jVWRFhhKqMWRu',
+	'key' => 'Enter-A-32-Bit-String-Here',
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
