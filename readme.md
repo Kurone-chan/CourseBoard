@@ -6,20 +6,20 @@
 [![Latest Unstable Version](https://poser.pugx.org/Kurone-chan/CourseBoard/v/unstable.svg)](https://packagist.org/packages/Kurone-chan/CourseBoard)
 [![License](https://poser.pugx.org/Kurone-chan/CourseBoard/license.svg)](https://packagist.org/packages/Kurone-chan/CourseBoard)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+CourseBoard is an open-source collaboration tool designed for students. CourseBoard is licensed under the MIT license. CourseBoard was created using the [Laravel](https://github.com/laravel/framework) framework, the [Bootstrap](https://github.com/twbs/bootstrap) CSS and JS framework, and the [FontAwesome](http://fontawesome.io) web font collection.
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+#### Server Requirements
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+CourseBoard goes hand-in-hand with Laravel Version 4's server requirements:
 
-## Official Documentation
+- Apache or Nginx platform
+- PHP >= 5.4
+- Mcrypt PHP Extension
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+#### Installation
 
-### Contributing To Laravel
+Download the source via `git clone` or by clicking `Download ZIP` on the right. Setup your VirtualHost to point to: `your-web-root-folder/courseboard/public`, and make sure rewrite and php modules are properly installed and configured.
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+#### License
 
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+CourseBoard is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
