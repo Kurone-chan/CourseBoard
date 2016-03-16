@@ -1,10 +1,5 @@
 ## CourseBoard
 
-[![Total Downloads](https://poser.pugx.org/zackdevine/CourseBoard/downloads.svg)](https://packagist.org/zackdevine/CourseBoard)
-[![Latest Stable Version](https://poser.pugx.org/zackdevine/CourseBoard/v/stable.svg)](https://packagist.org/packages/zackdevine/CourseBoard)
-[![Latest Unstable Version](https://poser.pugx.org/zackdevine/CourseBoard/v/unstable.svg)](https://packagist.org/packages/zackdevine/CourseBoard)
-[![License](https://poser.pugx.org/zackdevine/CourseBoard/license.svg)](https://packagist.org/packages/zackdevine/CourseBoard)
-
 CourseBoard is an open-source collaboration tool designed for students. CourseBoard is licensed under the MIT license. CourseBoard was created using the [Laravel](https://github.com/laravel/framework) framework, the [Bootstrap](https://github.com/twbs/bootstrap) CSS and JS framework, and the [FontAwesome](http://fontawesome.io) web font collection.
 
 #### Server Requirements
